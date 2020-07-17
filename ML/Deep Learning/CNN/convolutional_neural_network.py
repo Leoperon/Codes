@@ -1,3 +1,4 @@
+#For dataset download any dog and cat dataset in jpg , try to get around 10k files both test and training set .
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
 tf.__version__
